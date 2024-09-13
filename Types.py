@@ -1,0 +1,11 @@
+print('This string text')
+
+print(2+2)
+print(2.0+2)
+print(4.0-2.0, 2+2)
+print(2*8)
+print(1.0*2)
+print(10/5)
+print(2.4/1.2)
+print(float(2))
+print(int(2.5))
